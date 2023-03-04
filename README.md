@@ -1,3 +1,4 @@
+JUNCHEN ZHOU Part
 # dat.GUI
 A lightweight graphical user interface for changing variables in JavaScript.
 
@@ -64,3 +65,12 @@ The following libraries / open-source projects were used in the development of d
  * [Sass](http://sass-lang.com/)
  * [Node.js](http://nodejs.org/)
  * [QUnit](https://github.com/jquery/qunit) / [jquery](http://jquery.com/)
+
+
+
+Siming Wang-
+npm install express
+npm install
+nodemon.js
+
+Function:prototype of load file and get location
